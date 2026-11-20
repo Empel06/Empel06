@@ -6,7 +6,6 @@
 
 <p align="center">
   Electronics-ICT student at <b>UHasselt</b>.<br />
-  I love building projects and turning ideas into something that actually works.
 </p>
 
 ### what i work with
